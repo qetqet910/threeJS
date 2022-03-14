@@ -2,6 +2,10 @@
 
 [강의 링크](https://www.youtube.com/watch?v=ZGACJosABBw&list=PLe6NQuuFBu7HqxY10b6gNu6iisT2-rZv-&index=2&ab_channel=GISDEVELOPER)
 
+<br>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/efbd5b1c-7140-49ac-b231-c1bf1a0a87d1/deploy-status)](https://taekjoontlqkf.netlify.app/)
+
 <br><br><br>
 
 #### 깃 커맨드 사용법
