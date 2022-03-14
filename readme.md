@@ -4,7 +4,7 @@
 
 <br><br><br>
 
-###### 깃 커맨드 사용법
+#### 깃 커맨드 사용법
 
 - 디렉토리 만들기
 - cd Route, mkdir filename, cd filename, ( touch .env index.html .gitignore )
