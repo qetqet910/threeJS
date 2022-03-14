@@ -4,7 +4,7 @@
 
 <br>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/efbd5b1c-7140-49ac-b231-c1bf1a0a87d1/deploy-status)](https://taekjoontlqkf.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7dd3c93a-784c-4412-8d38-6d906acc13b7/deploy-status)](https://awesome-lalande-419ad7.netlify.app/)
 
 <br><br><br>
 
