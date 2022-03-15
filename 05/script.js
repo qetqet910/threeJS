@@ -3,9 +3,6 @@
 
 import * as Three from "../three.js-master/build/three.module.js";
 import { OrbitControls } from "../three.js-master/examples/jsm/controls/OrbitControls.js"
-import { FontLoader } from "../three.js-master/examples/jsm/loaders/FontLoader.js"
-import { TextGeometry } from "../three.js-master/examples/jsm/geometries/TextGeometry.js"
-import { Sphere } from "three";
 
 class App {
     constructor() {
