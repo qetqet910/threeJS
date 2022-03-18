@@ -5,6 +5,8 @@
 <br>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7dd3c93a-784c-4412-8d38-6d906acc13b7/deploy-status)](https://awesome-lalande-419ad7.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7dd3c93a-784c-4412-8d38-6d906acc13b7/deploy-status)](https://eloquent-dubinsky-f8766b.netlify.app/)
+
 
 <br><br><br>
 
